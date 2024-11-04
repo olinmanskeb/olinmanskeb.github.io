@@ -1,4 +1,3 @@
-User-Agent: *
-Disallow: /login
-
-Sitemap: https://olinmanskeb.github.io/zp533/sitemap_index.txt
+User-agent:*
+Allow:/
+Sitemap:https://olinmanskeb.github.io/sitemap.xml
